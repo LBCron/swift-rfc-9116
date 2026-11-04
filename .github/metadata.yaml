@@ -1,0 +1,4 @@
+description: "Swift implementation of RFC 9116: A File Format to Aid in Security Vulnerability Disclosure (security.txt)."
+homepage: "https://swift-institute.org"
+readme:
+  family: F
